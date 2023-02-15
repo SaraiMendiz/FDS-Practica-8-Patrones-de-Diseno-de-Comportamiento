@@ -1,0 +1,5 @@
+========================
+Instrucciones de uso
+========================
+Debe ser ejecutado desde el terminal
+A continuación se realizarán unas pruebas y se imprimirán por pantalla.

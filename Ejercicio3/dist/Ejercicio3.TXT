@@ -1,0 +1,5 @@
+========================
+Instrucciones de uso
+========================
+Debe ser ejecutado desde el terminal.
+A continuación se le mostrará un menú donde pordrá seleccionar qué función quiere que haga el vehículo.
